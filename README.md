@@ -1,1 +1,1 @@
-# parallel
+# parallel mini projects
